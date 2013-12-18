@@ -353,7 +353,7 @@ void CinderApp::keyDown( ci::app::KeyEvent _event )
         
         while ( true )
         {            
-          m_vidPath = ci::getDocumentsDirectory() / ( "FlockDrawCapture_" + ci::toString( vidNumber ) );
+          m_vidPath = ci::getDocumentsDirectory() / ( "WavyWavesCapture_" + ci::toString( vidNumber ) );
          
           if ( !ci::fs::exists( m_vidPath ) )
           {
