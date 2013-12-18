@@ -11,3 +11,8 @@
 *.lai
 *.la
 *.a
+vc11/Debug App/
+vc11/Debug/
+vc11/Release/
+vc11/WavyWaves.opensdf
+vc11/WavyWaves.sdf
